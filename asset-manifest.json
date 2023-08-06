@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Mudra/static/css/main.bc53052b.css",
+    "main.js": "/Mudra/static/js/main.5841612e.js",
+    "static/js/787.df92efcb.chunk.js": "/Mudra/static/js/787.df92efcb.chunk.js",
+    "static/media/business.jpeg": "/Mudra/static/media/business.3bc54e821ec0a345f2b5.jpeg",
+    "static/media/silver.avif": "/Mudra/static/media/silver.da158b742ff27aa16db3.avif",
+    "static/media/loggo.png": "/Mudra/static/media/loggo.bd2fed94f8b7d608e694.png",
+    "index.html": "/Mudra/index.html",
+    "main.bc53052b.css.map": "/Mudra/static/css/main.bc53052b.css.map",
+    "main.5841612e.js.map": "/Mudra/static/js/main.5841612e.js.map",
+    "787.df92efcb.chunk.js.map": "/Mudra/static/js/787.df92efcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc53052b.css",
+    "static/js/main.5841612e.js"
+  ]
+}
